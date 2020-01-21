@@ -1,5 +1,5 @@
-#test class
+# Test class
 A simple add to manage your daily tasks
 
-##Features
+## Features
 * List of daily tasks
